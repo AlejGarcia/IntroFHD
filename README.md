@@ -9,5 +9,5 @@ StochasticHeat.ipynb - Python notebook that calculates solution of the stochasti
                        using either Forward Euler or Predictor-Corrector.
                        See Intro_FHD_notes for documentation
                        
-Thermophysics_Slides_Boulder_2024.pdf - Slides from talk at 22nd Symposium on Thermophysical Properties, 
+Thermophysics_Boulder_2024.pdf - Slides from talk at 22nd Symposium on Thermophysical Properties, 
                                         Boulder CO, June 26, 2024
